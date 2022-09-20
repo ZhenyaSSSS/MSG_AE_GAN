@@ -1,0 +1,10 @@
+adam_beta1: 0.5
+adam_beta2: 0.9
+batch_size: 10
+depth: 7
+feature_size: 512
+learning_rate_discriminator: 0.003
+learning_rate_generator: 0.003
+seq_image_len: 4
+seq_len: 76
+use_eql: true
